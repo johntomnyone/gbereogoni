@@ -1,0 +1,1 @@
+web: gunicorn gbereogoni.wsgi
